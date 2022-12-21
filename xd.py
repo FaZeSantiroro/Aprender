@@ -1,1 +1,1 @@
-hola mundo
+print("gola mundo")
